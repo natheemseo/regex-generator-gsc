@@ -110,7 +110,7 @@ const SEORegexBuilder = () => {
     <div style={styles.container}>
       <div style={styles.card}>
         <h2 style={styles.title}>
-          SEO Regex Builder for Google Search Console
+          Pipe Regex Builder
         </h2>
         <select
           style={styles.select}
